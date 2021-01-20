@@ -38,4 +38,4 @@ setTimeout(function() {
     }
   }
   alert('Il tuo punteggio è ' + numbersCheck.length + '/5')
-})
+}, 3000) // dopo 3 secondi mostra il prompt //
